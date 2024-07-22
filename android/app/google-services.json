@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46006704538",
+    "project_id": "phoneaunthi",
+    "storage_bucket": "phoneaunthi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46006704538:android:48f1abb18afd4d44f10223",
+        "android_client_info": {
+          "package_name": "com.example.liveasyphonetask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJS4foExKgruKk23Iyz9zGij5-PD4FZ14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
